@@ -32,10 +32,9 @@ A Microsoft Sentinel Logic App playbook that fires an HTML-formatted email notif
 
 ## Post-deployment steps
 
-1. **Authorize Office 365 connection** - go to the deployed Logic App > API connections > `Office365-<PlaybookName>` > Edit API connection > Authorize
-2. **Grant Log Analytics Reader** - assign the Logic App's managed identity the **Log Analytics Reader** role on the Log Analytics Workspace
-3. **Enable the Logic App** - it deploys in Disabled state, enable it once the Office 365 connection is authorized
-4. **Attach to automation rule** - in Microsoft Sentinel > Automation > Create rule > trigger: *When incident is created* > action: *Run playbook* > select this playbook
+1. **Grant Log Analytics Reader** - assign the Logic App's managed identity the **Log Analytics Reader** role on the Log Analytics Workspace
+2. **Enable the Logic App** - it deploys in Disabled state, enable it once the Office 365 connection is authorized
+3. **Attach to automation rule** - in Microsoft Sentinel > Automation > Create rule > trigger: *When incident is created* > action: *Run playbook* > select this playbook
 
 ---
 

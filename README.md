@@ -1,4 +1,4 @@
-# ITProfessorCloud - Logic Apps
+# ITProfessorCloud Logic Apps
 
 > **Practical, production-ready Microsoft Sentinel playbooks by [ITProfessor.cloud](https://itprofessor.cloud)**
 

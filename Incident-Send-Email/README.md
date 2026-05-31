@@ -2,7 +2,7 @@
 
 > **Playbook by [ITProfessor.cloud](https://itprofessor.cloud)**
 
-A Microsoft Sentinel Logic App playbook that fires an HTML-formatted email notification every time a new incident is created. Attach it to a Sentinel automation rule scoped to **"When incident is created"** and it will run exactly once per incident - no duplicates, no extra dedup logic needed.
+A Microsoft Sentinel Logic App playbook that fires an HTML-formatted email notification every time a new incident is created. Attach it to a Sentinel automation rule scoped to **"When incident is created"**
 
 ---
 

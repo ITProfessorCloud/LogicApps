@@ -2,7 +2,7 @@
 
 > **Practical, production-ready Microsoft Sentinel playbooks by [ITProfessor.cloud](https://itprofessor.cloud)**
 
-This repo contains Logic App Consumption playbooks built for real-world Microsoft Sentinel deployments. Every playbook follows the official Microsoft Sentinel ARM pattern. One-click Deploy to Azure, MSI where supported, no hardcoded environment values.
+This repo contains Logic App Consumption playbooks built to help with Microsoft Sentinel 
 
 ## Playbooks
 
